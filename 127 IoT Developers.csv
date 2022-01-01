@@ -1,0 +1,520 @@
+listing_type,first_name,last_name,email,company,phone_number,address1,city,zip_code,state_code,country_code,profession_name,services
+,,,,,,,,,,,,
+Company,,,,Lemberg Solutions,380 32240-1111,L'viv,,,UA,380,Web & Software Development,IoT Developers
+Company,,,,iTechArt Group,718 374-5043,New York,,NY,US,1,Web & Software Development,IoT Developers
+Company,,,,intent,485 1210-3922,Warszawa,,,PL,48,Web & Software Development,IoT Developers
+Company,,,,Intellias,380 32290-3690,L'viv,,,UA,380,Web & Software Development,IoT Developers
+Company,,,,Intuz,650 451-1499,San Francisco,,CA,US,1,Web & Software Development,IoT Developers
+Company,,,,HQSoftware,372 712-0022,Tallinn,,,EE,372,Web & Software Development,IoT Developers
+Company,,,,techahead,818 318-0727,Agoura Hills,,CA,US,1,Web & Software Development,IoT Developers
+Company,,,,DataArt,212 378-4108,New York,,NY,US,1,Web & Software Development,IoT Developers
+Company,,,,SoluLab,917 924-8355,Los Angeles,,CA,US,1,Web & Software Development,IoT Developers
+Company,,,,Coherent Solutions,612 279-6262,St. Louis Park,,MN,US,1,Web & Software Development,IoT Developers
+Company,,,,Orangesoft,424 208-0209,San Francisco,,CA,US,1,Web & Software Development,IoT Developers
+Company,,,,Metova,501 472-5864,Franklin,,TN,US,1,Web & Software Development,IoT Developers
+Company,,,,AJProTech,818 851-1502,Los Angeles,,CA,US,1,Web & Software Development,IoT Developers
+Company,,,,Sirin Software,380 44592-5087,Kyiv,,,UA,380,Web & Software Development,IoT Developers
+Company,,,,Wyrmix,972 467-3156,Farmers Branch,,TX,US,1,Web & Software Development,IoT Developers
+Company,,,,Kellton Tech Solutions,844 469-8900,Reston,,VA,US,1,Web & Software Development,IoT Developers
+Company,,,,Dogtown Media,888 814-7010,Los Angeles,,CA,US,1,Web & Software Development,IoT Developers
+Company,,,,Maxiom Technology,833 629-2777,Ashburn,,VA,US,1,Web & Software Development,IoT Developers
+Company,,,,AndPlus,508 425-7533,Southborough,,MA,US,1,Web & Software Development,IoT Developers
+Company,,,,Biz4Group LLC,614 329-6463,Orlando,,FL,US,1,Web & Software Development,IoT Developers
+Company,,,,Trigma,702 907-5006,Las Vegas,,NV,US,1,Web & Software Development,IoT Developers
+Company,,,,AMC TECH,481 2362-9764,Kraków,,,PL,1,Web & Software Development,IoT Developers
+Company,,,,Systango,441 25354-7777,London,,,UK,44,Web & Software Development,IoT Developers
+Company,,,,Devetry,720 580-1192,Denver,,CO,US,1,Web & Software Development,IoT Developers
+Company,,,,Arcanys,091 1630-9326,Cebu City,,,PH,63,Web & Software Development,IoT Developers
+Company,,,,Technostacks Infotech Pvt Ltd,919 90901-2616,Ahmedabad,,IN,US,1,Web & Software Development,IoT Developers
+Company,,,,Supercharge,316 5237-2271,Amsterdam,,,NL,31,Web & Software Development,IoT Developers
+Company,,,,Syberry,512 402-6582,Austin,,TX,US,1,Web & Software Development,IoT Developers
+Company,,,,Reinvently,877 951-2224,Palo Alto,,CA,US,1,Web & Software Development,IoT Developers
+Company,,,,AgileVision.io,532 25-3591,krakow,,,PL,48,Web & Software Development,IoT Developers
+Company,,,,Halcyon Mobile,650 924-9023,New York,,NY,US,1,Web & Software Development,IoT Developers
+Company,,,,Devvela,312 888-6497,Chicago,,IL,US,1,Web & Software Development,IoT Developers
+Company,,,,Big Nerd Ranch,770 817-6373,Atlanta,,GA,US,1,Web & Software Development,IoT Developers
+Company,,,,SDSol Technologies,305 274-2147,Coral Gables,,FL,US,1,Web & Software Development,IoT Developers
+Company,,,,HatchWorks Technologies,404 307-7502,Atlanta,,GA,US,1,Web & Software Development,IoT Developers
+Company,,,,Eastern Peak,442 08068-4946,London,,,UK,44,Web & Software Development,IoT Developers
+Company,,,,Naturaily,487 3077-6007,Wroc?aw,,,PL,48,Web & Software Development,IoT Developers
+Company,,,,CHI Software,380 5077-6853,Kharkiv,,,UA,380,Web & Software Development,IoT Developers
+Company,,,,DO OK,485 0019-0517,Wroc?aw,,,PL,48,Web & Software Development,IoT Developers
+Company,,,,Ars Futura,380 00000-0000,Zagreb,,,HR,385,Web & Software Development,IoT Developers
+Company,,,,HIRUN Technology Company Limited,669 3238-8336,chiang mai,,,TH,66,Web & Software Development,IoT Developers
+Company,,,,RipenApps,919 65038-1015,Noida,,,IN,91,Web & Software Development,IoT Developers
+Company,,,,Solwit SA,485 8770-3492,Gda?sk,,,PL,48,Web & Software Development,IoT Developers
+Company,,,,WizzDev,485 1576-6049,Pozna?,,,PL,48,Web & Software Development,IoT Developers
+Company,,,,Tack Mobile,303 325-5300,Denver,,CO,US,1,Web & Software Development,IoT Developers
+Company,,,,FS Studio,888 404-6115,Emeryville,,CA,US,1,Web & Software Development,IoT Developers
+Company,,,,Akveo,415 670-9034,Lakewood,,CO,US,1,Web & Software Development,IoT Developers
+Company,,,,INTERSOG,833 468-3776,Chicago,,IL,US,1,Web & Software Development,IoT Developers
+Company,,,,Techtic Solutions Inc,201 793-8324,New York,,NY,US,1,Web & Software Development,IoT Developers
+Company,,,,Vates,954 889-6722,Atlanta,,GA,US,1,Web & Software Development,IoT Developers
+Company,,,,Apriorit,202 780-9339,Wilmington,,DE,US,1,Web & Software Development,IoT Developers
+Company,,,,Emorphis Technologies,408 409-7548,Irvine,,CA,US,1,Web & Software Development,IoT Developers
+Company,,,,Apptunix,415 670-9326,Austin,,TX,US,1,Web & Software Development,IoT Developers
+Company,,,,Cortlex,370 6888-8912,Vilnius,,,US,370,Web & Software Development,IoT Developers
+Company,,,,HebronSoft,252 723-5982,Cary,,NC,US,1,Web & Software Development,IoT Developers
+Company,,,,Digica,442 08126-1156,Broadheath,,,UK,44,Web & Software Development,IoT Developers
+Company,,,,Guaraná Technologies,647 559-3001,Toronto,,,CA,1,Web & Software Development,IoT Developers
+Company,,,,Synergo Group,647 560-4412,Toronto,,,CA,1,Web & Software Development,IoT Developers
+Company,,,,Devision,359 2437-2212,Sofia,,,BG,359,Web & Software Development,IoT Developers
+Company,,,,HubSpire,646 234-4550,New York,,NY,US,1,Web & Software Development,IoT Developers
+Company,,,,OneClick IT Consultancy Pvt. Ltd.,919 86004-1140,Ahmedabad,,,IN,91,Web & Software Development,IoT Developers
+Company,,,,AROBS,264 20-2116,Cluj-Napoca,,,RO,40,Web & Software Development,IoT Developers
+Company,,,,LANARS,845 393-0041,Dnipropetrovs'k,,,UA,380,Web & Software Development,IoT Developers
+Company,,,,Mood Up Team,486 1611-3876,Pozna?,,,PL,48,Web & Software Development,IoT Developers
+Company,,,,Pegasus One,714 485-8104,Fullerton,,CA,US,1,Web & Software Development,IoT Developers
+Company,,,,Hashtaag™,098 8612-5599,Bengaluru,,,IN,91,Web & Software Development,IoT Developers
+Company,,,,SVAP INFOTECH PVT. LTD.,724 000-9453,Jaipur,,,IN,91,Web & Software Development,IoT Developers
+Company,,,,The Better Bunch,796 2687-8391,Tallinn,,,EE,372,Web & Software Development,IoT Developers
+Company,,,,moblers,972 54948-9805,HaOgen,,,IL,972,Web & Software Development,IoT Developers
+Company,,,,Jellyfish Technologies,9101 20429-6782,Noida,,,IN,91,Web & Software Development,IoT Developers
+Company,,,,Promptworks,888 915-7768,Philadelphia,,PA,US,1,Web & Software Development,IoT Developers
+Company,,,,Honeycomb Software,380 50375-9418,Lviv,,,UA,380,Web & Software Development,IoT Developers
+Company,,,,Movadex,380 68206-8989,L'viv,,,UA,380,Web & Software Development,IoT Developers
+Company,,,,Baytech Consulting,877 683-259,Irvine,,CA,US,1,Web & Software Development,IoT Developers
+Company,,,,NeuroSYS,486 6071-5653,Wroc?aw,,,PL,48,Web & Software Development,IoT Developers
+Company,,,,Cobuild Lab Inc,786 991-3467,Miami,,FL,US,1,Web & Software Development,IoT Developers
+Company,,,,Nevina Infotech,917 57297-0470,Ahmedabad,,,IN,91,Web & Software Development,IoT Developers
+Company,,,,Mobilunity,000 00-0000,Kyiv,,,UA,380,Web & Software Development,IoT Developers
+Company,,,,TheAppLabb,416 745-3164,Toronto,,,CA,1,Web & Software Development,IoT Developers
+Company,,,,Art+Logic,,Pasadena,,,CA,1,Web & Software Development,IoT Developers
+Company,,,,Smartbox Media,866 210-9900,McAllan,,TX,US,1,Web & Software Development,IoT Developers
+Company,,,,Retrocube,888 205-1816,Dallas,,TX,US,1,Web & Software Development,IoT Developers
+Company,,,,Sidekick Interactive,800 965-1651,Montréal,,,CA,1,Web & Software Development,IoT Developers
+Company,,,,Mtoag Technologies,856 272-1112,Industrial Loop,,,US,1,Web & Software Development,IoT Developers
+Company,,,,Mobcoder,120 6295-9310,Seattle,,WA,US,1,Web & Software Development,IoT Developers
+Company,,,,47Billion,767 645-8384,Bengaluru,,,IN,91,Web & Software Development,IoT Developers
+Company,,,,INGENO,844 446-4366,Québec,,,CA,1,Web & Software Development,IoT Developers
+Company,,,,Childish,359 89744-3204,Sofia,,,BG,359,Web & Software Development,IoT Developers
+Company,,,,Think Tree Studios,888 838-8432,Denver,,CO,US,1,Web & Software Development,IoT Developers
+Company,,,,DPL,925 1289-5321,Islamabad,,,PK,92,Web & Software Development,IoT Developers
+Company,,,,webamboos,447 42942-8666,Oldham,,,UK,44,Web & Software Development,IoT Developers
+Company,,,,notAnotherOne,162 8250-2646,San Francisco,,CA,US,1,Web & Software Development,IoT Developers
+Company,,,,N7 Mobile,485 3554-6656,Warszawa,,,PL,48,Web & Software Development,IoT Developers
+Company,,,,FXBITS,407 5201-1004,Cluj-Napoca,,,RO,40,Web & Software Development,IoT Developers
+Company,,,,Design 1st,877 235-1004,Ottawa,,,CA,1,Web & Software Development,IoT Developers
+Company,,,,JUSTPRO,612 8294-5410,Sydney,,,AU,61,Web & Software Development,IoT Developers
+Company,,,,Front IT,455 577-7300,Vilnius,,,LT,370,Web & Software Development,IoT Developers
+Company,,,,CT Software Solutions,818 518-3399,Los Angeles,,CA,US,1,Web & Software Development,IoT Developers
+Company,,,,Trenser Technology Solutions (P) Ltd,914 71270-0844,Thiruvananthapuram,,,IN,91,Web & Software Development,IoT Developers
+Company,,,,Simublade,281 215-5296,Houston,,,US,1,Web & Software Development,IoT Developers
+Company,,,,Empeek,814 300-8003,Chicago,,IL,US,1,Web & Software Development,IoT Developers
+Company,,,,YND,12 12121-2122,Berlin,,,DE,49,Web & Software Development,IoT Developers
+Company,,,,oakfusion,487 9774-3064,Wroc?aw,,,PL,48,Web & Software Development,IoT Developers
+Company,,,,Novateus,225 308-6960,Baton Rouge,,LA,US,1,Web & Software Development,IoT Developers
+Company,,,,MITRIX Technology,375 44542-2436,Minsk,,,BY,375,Web & Software Development,IoT Developers
+Company,,,,ImpiCode,482 2509-6347,Warszawa,,,PL,48,Web & Software Development,IoT Developers
+Company,,,,EC Infosolutions LLC,315 703-3343,Lewes,,DE,US,1,Web & Software Development,IoT Developers
+Company,,,,Kwix Global Solutions,614 0733-7188,Hope Island,,,AU,61,Web & Software Development,IoT Developers
+Company,,,,mDevelopers,485 0238-3053,Warszawa,,,PL,48,Web & Software Development,IoT Developers
+Company,,,,ThinkUp,456 22-769,Montevideo,,,UR,598,Web & Software Development,IoT Developers
+Company,,,,Triangu,380 44531-3411,Kyiv,,,UA,380,Web & Software Development,IoT Developers
+Company,,,,"SharpQuest, Inc.",248 268-2592,Troy,,MI,US,1,Web & Software Development,IoT Developers
+Company,,,,Appinventers,919 68028-2791,Jaipur,,,IN,91,Web & Software Development,IoT Developers
+Company,,,,Software Station,380 63288-4749,Kharkiv,,,UA,380,Web & Software Development,IoT Developers
+Company,,,,"maeBe co., Ltd",815 5941-5821,Shimizu,,,JP,81,Web & Software Development,IoT Developers
+Company,,,,ToXSL Technologies Pvt Ltd,919 56974-7788,Sahibzada Ajit Singh Nagar,,,IN,91,Web & Software Development,IoT Developers
+Company,,,,Juego Studios,510 241-9354,California,,CA,US,1,Web & Software Development,IoT Developers
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

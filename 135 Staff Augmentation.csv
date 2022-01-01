@@ -1,0 +1,390 @@
+listing_type,first_name,last_name,email,company,phone_number,address1,city,zip_code,state_code,country_code,profession_name,services
+,,,,,,,,,,,,
+Company,,,,Newxel,380 68340-0233,Kyiv,,,UA,380,IT Services & Solutions,Staff Augmentation
+Company,,,,Five Pack Creative,972 200-9120,Frisco,,TX,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Parthenon Software Group,503 247-2447,Portland,,OR,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Pixoul,830 321-0359,Dallas,,TX,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Applover,487 2222-6022,Wroc?aw,,,PL,48,IT Services & Solutions,Staff Augmentation
+Company,,,,Sophilabs,718 395-7760,Brooklyn,,NY,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Arcanys,639 17634-9110,Cebu City,,,PH,63,IT Services & Solutions,Staff Augmentation
+Company,,,,Neginet,718 355-9390,Addison,,TX,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Simplex Software,549 113893-2590,CMK,,,AR,54,IT Services & Solutions,Staff Augmentation
+Company,,,,Flux IT,011 5272-6390,Gonnet,,,AR,54,IT Services & Solutions,Staff Augmentation
+Company,,,,Nearsure,310 409-2021,Los Angeles,,CA,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Qadvance,541 15116-1631,Ciudad de Buenos Aires,,,AR,54,IT Services & Solutions,Staff Augmentation
+Company,,,,EX2 Outcoding,800 974-7219,Desamparados,,,CR,506,IT Services & Solutions,Staff Augmentation
+Company,,,,CodersLink,512 289-9825,San Antonio,,TX,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,ISHIR,888 994-7447,Plano,,TX,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,"Menlo Technologies, A Quisitive Company",408 736-8100,Los Altos,,CA,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Altar.io,351 91935-9369,Lisboa,,,PT,351,IT Services & Solutions,Staff Augmentation
+Company,,,,N-iX,380 32229-5767,L'viv,,,UA,380,IT Services & Solutions,Staff Augmentation
+Company,,,,Capital Numbers,913 36799-2222,Kolkata,,,IN,91,IT Services & Solutions,Staff Augmentation
+Company,,,,Edvantis,493 02549-3196,Berlin,,,DE,49,IT Services & Solutions,Staff Augmentation
+Company,,,,Avenga,908 312-4070,Lviv,,,UA,380,IT Services & Solutions,Staff Augmentation
+Company,,,,Skelia,352 2020-2140,L'viv,,,UA,380,IT Services & Solutions,Staff Augmentation
+Company,,,,Beetroot AB,,Stockholm,,,SE,46,IT Services & Solutions,Staff Augmentation
+Company,,,,Intetics Inc.,239 217-4907,Naples,,FL,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Forte Group,312 757-4944,Chicago,,IL,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,KnubiSoft,443 33303-1241,London,,,UK,44,IT Services & Solutions,Staff Augmentation
+Company,,,,Britenet,482 2111-0030,Warszawa,,,PL,48,IT Services & Solutions,Staff Augmentation
+Company,,,,Scalo,486 6559-4665,Wroc?aw,,,PL,48,IT Services & Solutions,Staff Augmentation
+Company,,,,techahead,818 318-0727,Agoura Hills,,CA,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,DataArt,212 378-4108,New York,,NY,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,AddWeb Solution,903 317-7471,Ahmedabad,,,IN,91,IT Services & Solutions,Staff Augmentation
+Company,,,,Talentica Software,919 68991-8094,Pune,,,IN,91,IT Services & Solutions,Staff Augmentation
+Company,,,,Scalefocus,359 2491-6448,Sofia,,,BG,359,IT Services & Solutions,Staff Augmentation
+Company,,,,United Ideas,486 0013-0130,Warszawa,,,PL,48,IT Services & Solutions,Staff Augmentation
+Company,,,,GoodCore Software,442 08781-6903,Croydon,,,UK,44,IT Services & Solutions,Staff Augmentation
+Company,,,,Uplers,610 87200-6665,Surry Hills,,,AU,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Nickelfox,012 0411-2305,Noida,,,IN,91,IT Services & Solutions,Staff Augmentation
+Company,,,,Sphere Partners,312 488-9560,Northbrook,,IL,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,number8,502 212-0978,Louisville,,KY,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Leobit,512 487-7222,L'viv,,,UA,380,IT Services & Solutions,Staff Augmentation
+Company,,,,CSHARK,485 0613-3893,Wroc?aw,,,PL,48,IT Services & Solutions,Staff Augmentation
+Company,,,,Limestone Digital,420 70312-9016,Karlín,,,CZ,420,IT Services & Solutions,Staff Augmentation
+Company,,,,Tremend Software Consulting,402 1223-7700,Bucure?ti,,,RO,40,IT Services & Solutions,Staff Augmentation
+Company,,,,Icreon,212 706-6021,New York,,NY,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Evolvice GmbH,497 11219-5590,Stuttgart,,,DE,49,IT Services & Solutions,Staff Augmentation
+Company,,,,RITS - Relyon IT Services,482 2444-7999,Warszawa,,,PL,48,IT Services & Solutions,Staff Augmentation
+Company,,,,Mind IT Systems,987 135-2101,New Delhi,,,IN,91,IT Services & Solutions,Staff Augmentation
+Company,,,,ClickIT DevOps & Software Development,844 141-8485,Saltillo,,,MX,52,IT Services & Solutions,Staff Augmentation
+Company,,,,Itexus,131 2874-7160,Buffalo Grove,,IL,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Code & Pepper,442 08089-6950,London,,,UK,44,IT Services & Solutions,Staff Augmentation
+Company,,,,sceel.io GmbH,497 119688-2990,Stuttgart,,,DE,49,IT Services & Solutions,Staff Augmentation
+Company,,,,Qarea,380 57763-6024,Kharkiv,,,UA,380,IT Services & Solutions,Staff Augmentation
+Company,,,,CINQ Technologies,855 800-2467,Miami,,FL,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,BorderlessMind,888 267-3375,Plano,,,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Selleo,,Bielsko-Bia?a,,,PL,48,IT Services & Solutions,Staff Augmentation
+Company,,,,IT GuidePoint Corporation,800 518-3760,Chicago,,IL,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,WillDom,415 692-5508,Fort Lauderdale,,FL,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,DICEUS,380 95270-2657,Kyiv,,,UA,380,IT Services & Solutions,Staff Augmentation
+Company,,,,3XM Group,543 51483-8185,Córdoba,,,AR,54,IT Services & Solutions,Staff Augmentation
+Company,,,,Accedia,359 2444-2003,Sofia,,,BG,359,IT Services & Solutions,Staff Augmentation
+Company,,,,Simform,321 237-2727,Orlando,,FL,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Grape Up,485 3025-0478,Kraków,,,PL,48,IT Services & Solutions,Staff Augmentation
+Company,,,,Intellectsoft,855 300-4335,Miami,,FL,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Geomotiv,157 1748-7688,Alexandria,,VA,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Clarika,646 443-6740,New York,,NY,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Devsu,407 807-0664,Orlando,,FL,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Sombra,380 97275-0055,Lviv,,,UA,380,IT Services & Solutions,Staff Augmentation
+Company,,,,LookFar Labs,504 315-3150,New Orleans,,LA,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Iflexion,720 207-0369,Denver,,CO,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Emergent Software,612 217-0747,Minneapolis,,MN,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Langate Corp,888 526-4283,New York,,NY,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Cedarcode,415 914-9204,Montevideo,,,UY ,598,IT Services & Solutions,Staff Augmentation
+Company,,,,Remote Team Solutions,880 449-0189,Monterrey,,,MX,52,IT Services & Solutions,Staff Augmentation
+Company,,,,PremierSoft,554 73091-1999,Blumenau,,,BR,55,IT Services & Solutions,Staff Augmentation
+Company,,,,Greelow,786 753-8081,CABA,,,AR,54,IT Services & Solutions,Staff Augmentation
+Company,,,,Active Bridge,888 805-3503,Phoenix,,AZ,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,CISIN,408 442-8018,San Jose,,CA,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,ZOONDIA,910 471401-7676,Thiruvananthapuram,,,IN,91,IT Services & Solutions,Staff Augmentation
+Company,,,,Scio,151 2538-0512,Austin,,TX,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Velotio Technologies,408 617-5762,Pune,,,IN,91,IT Services & Solutions,Staff Augmentation
+Company,,,,Antalogic,375 29102-8287,Homie?,,,BY,375,IT Services & Solutions,Staff Augmentation
+Company,,,,Synergo Group,647 560-4412,Toronto,,,CA,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Heaven Solutions,425 770-4007,Kirkland,,WA,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Euristiq,380 63840-3560,L'viv,,,UA,380,IT Services & Solutions,Staff Augmentation
+Company,,,,Vates,954 889-6722,Atlanta,,GA,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,DNA325,380 94930-5325,Odesa,,,UA,380,IT Services & Solutions,Staff Augmentation
+Company,,,,Smart IT,408 641-3300,San Francisco,,CA,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Cogniteq,370 5259-5508,Vilnius,,,LT,370,IT Services & Solutions,Staff Augmentation
+Company,,,,Symphony Solutions,316 5578-4121,Amsterdam,,,NL,31,IT Services & Solutions,Staff Augmentation
+Company,,,,Recro,918 04718-7171,Bengaluru,,,IN,91,IT Services & Solutions,Staff Augmentation
+Company,,,,DigitalSuits,380 66116-5777,Kharkiv,,,UA,380,IT Services & Solutions,Staff Augmentation
+Company,,,,Concepta,407 720-4711,Windermere,,FL,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,FusionHit,760 884-3886,Heredia,,,CR,506,IT Services & Solutions,Staff Augmentation
+Company,,,,BetterWorld Technology,866 567-2273,Reston,,VA,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Webential,142 4777-1550,Foster City,,CA,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,RIKSOF,415 429-6987,Middletown,,DE,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,AccelOne,800 863-6814,Kirkland,,WA,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,ROKi Digital,020 3811-0447,London,,,UK,44,IT Services & Solutions,Staff Augmentation
+Company,,,,MPC,485 1671-1852,Katowice,,,PL,48,IT Services & Solutions,Staff Augmentation
+Company,,,,MassMedia Group,380 98095-2264,Khmel'nyts'kyi,,,UA,380,IT Services & Solutions,Staff Augmentation
+Company,,,,Effectus Software,832 460-4149,Montevideo,,,UY ,598,IT Services & Solutions,Staff Augmentation
+Company,,,,BIX Technology,554 899659-5490,Florianópolis,,,BR,55,IT Services & Solutions,Staff Augmentation
+Company,,,,Appstronauts,485 7070-7700,Warszawa,,,PL,48,IT Services & Solutions,Staff Augmentation
+Company,,,,Alcor,380 44359-1360,Kyiv,,,UA,380,IT Services & Solutions,Staff Augmentation
+Company,,,,Lateral Inc.,650 380-8261,Cluj-Napoca,,,RO,40,IT Services & Solutions,Staff Augmentation
+Company,,,,Mob Inspire,165 0800-3640,Palo Alto,,CA,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Code Labs,311 898-6117,Bogotá,,,CO,57,IT Services & Solutions,Staff Augmentation
+Company,,,,UVIK Software,512 539-0265,Chernivtsi,,,UA,380,IT Services & Solutions,Staff Augmentation
+Company,,,,DOIT Software,929 999-1825,Boston,,MA,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Sonnecto,646 970-1097,Prishtina,,,XK,383,IT Services & Solutions,Staff Augmentation
+Company,,,,Streaver,351 200-3747,Montevideo,,,UY ,598,IT Services & Solutions,Staff Augmentation
+Company,,,,Talenger,486 0099-3557,Wroc?aw,,,PL,48,IT Services & Solutions,Staff Augmentation
+Company,,,,Smart Thinking,525 54040-8271,Mexico City,,,MX,52,IT Services & Solutions,Staff Augmentation
+Company,,,,OnPath Testing,303 479-4994,Boulder,,CO,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,Groove Technology,842 87109-9982,Ho Chi Minh City,,,VT,84,IT Services & Solutions,Staff Augmentation
+Company,,,,GTM Plus,132 3870-7813,Praha,,,CZ,420,IT Services & Solutions,Staff Augmentation
+Company,,,,B/Net Systems,202 643-2478,Annapolis,,MD,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,SINAPTIA,549 221359-9161,La Plata,,,AR,54,IT Services & Solutions,Staff Augmentation
+Company,,,,ThinkUp,456 2-2769,Montevideo,,,UY ,598,IT Services & Solutions,Staff Augmentation
+Company,,,,DEVtrust,347 719-4819,Lucknow,,,IN,91,IT Services & Solutions,Staff Augmentation
+Company,,,,Asahi Technologies,212 717-1812,New York,,NY,US,1,IT Services & Solutions,Staff Augmentation
+Company,,,,REWSOFT,486 9559-2547,Tychy,,,PL,48,IT Services & Solutions,Staff Augmentation
+Company,,,,Moravio,420 73936-0450,Prague,,,CZ,420,IT Services & Solutions,Staff Augmentation
+Company,,,,JANETO,8428 668-33575,Ho Chi Minh,,,VT,84,IT Services & Solutions,Staff Augmentation
+Company,,,,Antma IT,4850 986-7940,Kraków,,,PL,48,IT Services & Solutions,Staff Augmentation
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

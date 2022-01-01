@@ -1,0 +1,390 @@
+listing_type,first_name,last_name,email,company,phone_number,address1,city,zip_code,state_code,country_code,profession_name,services
+,,,,,,,,,,,,
+Company,,,,Future Processing,448 45805-7479,Gliwice,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,OSIbeyond,301 312-8908,Rockville,,MD,US,1,IT Services & Solutions,IT Services
+Company,,,,instinctools,497 116648-3694,Stuttgart,,,DE,49,IT Services & Solutions,IT Services
+Company,,,,SugarShot,310 641-3274,Los Angeles,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,DataArt,121 2378-4108,New York,,NY,US,1,IT Services & Solutions,IT Services
+Company,,,,Accedia,359 2444-2003,Sofia,,,BG,359,IT Services & Solutions,IT Services
+Company,,,,ClickIT DevOps & Software Development,844 141-8485,Saltillo,,,MX,52,IT Services & Solutions,IT Services
+Company,,,,Scalefocus,359 2491-6448,Sofia,,,BG,359,IT Services & Solutions,IT Services
+Company,,,,Imagis,866 462-4474,New York,,NY,US,1,IT Services & Solutions,IT Services
+Company,,,,DevCom,180 0780-8560,L'viv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,3XM Group,543 51483-8185,Córdoba,,,AR,54,IT Services & Solutions,IT Services
+Company,,,,BetterWorld Technology,866 567-2273,Reston,,VA,US,1,IT Services & Solutions,IT Services
+Company,,,,Resolute Software,177 0901-9870,Lawrenceville,,GA,US,1,IT Services & Solutions,IT Services
+Company,,,,TechMD,888 883-2463,Santa Ana,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,eMazzanti Technologies,,Hoboken,,NJ,US,1,IT Services & Solutions,IT Services
+Company,,,,StackOverdrive.io,844 733-8677,New York,,NY,US,1,IT Services & Solutions,IT Services
+Company,,,,Itransition,720 207-2820,Denver,,CO,US,1,IT Services & Solutions,IT Services
+Company,,,,Dataprise,188 8519-8111,Rockville,,MD,US,1,IT Services & Solutions,IT Services
+Company,,,,N-iX,380 32229-5767,L'viv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,TruAdvantage,408 680-8389,Cupertino,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,Red Key Solutions,914 825-6212,White Plains,,NY,US,1,IT Services & Solutions,IT Services
+Company,,,,LCloud Sp. z o.o.,482 2355-2355,Warszawa,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,BlackPoint IT,206 575-9511,Kent,,WA,US,1,IT Services & Solutions,IT Services
+Company,,,,Ripple IT,404 857-4567,Atlanta,,GA,US,1,IT Services & Solutions,IT Services
+Company,,,,IT Svit,192 9999-1965,Kharkiv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,"BCA IT, Inc.",305 716-1011,Miami,,FL,US,1,IT Services & Solutions,IT Services
+Company,,,,Binary Republik,678 960-8003,Alpharetta,,GA,US,1,IT Services & Solutions,IT Services
+Company,,,,Framework IT,312 265-8733,Chicago,,IL,US,1,IT Services & Solutions,IT Services
+Company,,,,CyberDuo,855 933-6638,Los Angeles,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,10Pearls,703 935-1919,Washington,,DC,US,1,IT Services & Solutions,IT Services
+Company,,,,M6iT,646 833-8801,New York,,NY,US,1,IT Services & Solutions,IT Services
+Company,,,,Preemo IT Support,305 504-6947,Miami,,FL,US,1,IT Services & Solutions,IT Services
+Company,,,,Qburst,914 71653-7510,Thiruvananthapuram,,,IN,91,IT Services & Solutions,IT Services
+Company,,,,Britenet,482 211- 0030,Warszawa,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,EMPIST,312 360-1900,Chicago,,IL,US,1,IT Services & Solutions,IT Services
+Company,,,,Computer Solutions East,914 355-5800,New Rochelle,,NY,US,1,IT Services & Solutions,IT Services
+Company,,,,Bit by Bit Computer Consultants,866 391-1566,New York,,NY,US,1,IT Services & Solutions,IT Services
+Company,,,,Spectrum Technology Solutions,602 222-3500,Scottsdale,,AZ,US,1,IT Services & Solutions,IT Services
+Company,,,,briteCITY,949 243-7440,Irvine,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,Symphony Solutions,316 5578-4121,Amsterdam,,NL,US,1,IT Services & Solutions,IT Services
+Company,,,,Realnets,773 631-6851,Park Ridge,,IL,US,1,IT Services & Solutions,IT Services
+Company,,,,"Tactical Strategies, LLC",248 396-9240,Dexter,,MI,US,1,IT Services & Solutions,IT Services
+Company,,,,XenonStack,918 03317-2899,Mohali,,,IN,91,IT Services & Solutions,IT Services
+Company,,,,DOOR3,646 351-0012,New York,,NY,US,1,IT Services & Solutions,IT Services
+Company,,,,End Point,212 929-6923,New York,,NY,US,1,IT Services & Solutions,IT Services
+Company,,,,HatchWorks Technologies,404 307-7502,Atlanta,,GA,US,1,IT Services & Solutions,IT Services
+Company,,,,Sysbee,385 5249-2060,Pula,,,HR,385,IT Services & Solutions,IT Services
+Company,,,,ThirdEye Data,408 462-5257,San Jose,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,Velotio Technologies,408 617-5762,Pune,,,IN,91,IT Services & Solutions,IT Services
+Company,,,,"Ascendant Technologies, Inc.",908 566-2374,Franklin Township,,NJ,US,1,IT Services & Solutions,IT Services
+Company,,,,Sphere Partners,312 488-9560,Northbrook,,IL,US,1,IT Services & Solutions,IT Services
+Company,,,,Talentica Software,919 68991-8094,Pune,,,IN,91,IT Services & Solutions,IT Services
+Company,,,,ImpactQA,347 349-2058,New York,,NY,US,1,IT Services & Solutions,IT Services
+Company,,,,Wendego I.T. Solutions,858 346-1567,San Diego,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,Appventurez,919 89965-0980,Noida,,,IN,91,IT Services & Solutions,IT Services
+Company,,,,Aligned Technology Solutions,703 740-8797,Washington,,DC,US,1,IT Services & Solutions,IT Services
+Company,,,,Uplers,610 87200-6665,Surry Hills,,,AU,61,IT Services & Solutions,IT Services
+Company,,,,Domain Technology Partners,609 395-6900,East Windsor,,NJ,US,1,IT Services & Solutions,IT Services
+Company,,,,delaPlex,404 876-3334,Atlanta,,GA,US,1,IT Services & Solutions,IT Services
+Company,,,,Grape Up,485 3025-0478,Kraków,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,ISHIR,888 994-7447,Plano,,TX,US,1,IT Services & Solutions,IT Services
+Company,,,,Intetics Inc.,239  217-4907,Naples,,FL,US,1,IT Services & Solutions,IT Services
+Company,,,,Liventus,847 443-2593,Chicago,,IL,US,1,IT Services & Solutions,IT Services
+Company,,,,Binariks,380 63717-2053,L'viv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,Haycor Computer Solutions Inc.,905-707-6775,Vaughan,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,Headspring,877 459-2260,Austin,,TX,US,1,IT Services & Solutions,IT Services
+Company,,,,Forte Group,312 757-4944,Chicago,,IL,US,1,IT Services & Solutions,IT Services
+Company,,,,TechMagic,380 93134-7264,L'viv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,"BizCare, Inc.",925 293-2222,Lafayette,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,Andromeda Technology Solutions,815 836-0030,Lockport,,IL,US,1,IT Services & Solutions,IT Services
+Company,,,,Progressive IT Solutions,214 717-4311,Dallas,,TX,US,1,IT Services & Solutions,IT Services
+Company,,,,SMBHD,773 888-7900,Chicago,,IL,US,1,IT Services & Solutions,IT Services
+Company,,,,"Real IT Solutions, Inc",616 209-8900,Comstock Park,,MI,US,1,IT Services & Solutions,IT Services
+Company,,,,Ibexlabs,888 723-5797,Princeton,,NJ,US,1,IT Services & Solutions,IT Services
+Company,,,,Proper Sky,215 305-8899,Glenside,,PA,US,1,IT Services & Solutions,IT Services
+Company,,,,Skelia,352 2020-2140,L'viv,,,US,1,IT Services & Solutions,IT Services
+Company,,,,Capital Techies,571 982-6000,Fairfax,,VA,US,1,IT Services & Solutions,IT Services
+Company,,,,Sloboda Studio,380 99759-6995,Kharkiv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,Icreon,212 706-6021,New York,,NY,US,1,IT Services & Solutions,IT Services
+Company,,,,Materiell,703 243-9207,Arlington,,VA,US,1,IT Services & Solutions,IT Services
+Company,,,,Radixweb,646 801-6885,Artesia,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,Bulbera,359 89636-5927,Sofia,,,BG,359,IT Services & Solutions,IT Services
+Company,,,,B/Net Systems,202 643-2478,Annapolis,,MD,US,1,IT Services & Solutions,IT Services
+Company,,,,BomberJacket Networks,651 448-9900,Andover,,MN,US,1,IT Services & Solutions,IT Services
+Company,,,,Experion Technologies,214 983-8181,Plano,,TX,US,1,IT Services & Solutions,IT Services
+Company,,,,Unicsoft,650 515-3699,Kyiv,,,US,1,IT Services & Solutions,IT Services
+Company,,,,Mutual Mobile,512 615-1800,Austin,,TX,US,1,IT Services & Solutions,IT Services
+Company,,,,Algoworks,877 284-1028,Sunnyvale,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,Simply Smart Technology,312 204-7320,Chicago,,IL,US,1,IT Services & Solutions,IT Services
+Company,,,,Sigma Software,380 67547-5659,Kyiv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,Indus Net Technologies Pvt. Ltd.,913 34046-4422,Kolkata,,,IN,91,IT Services & Solutions,IT Services
+Company,,,,Velotio Technologies,380 93542-7278,Kyiv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,iTechArt Group,718 374-5043,New York,,NY,US,1,IT Services & Solutions,IT Services
+Company,,,,Sombra,380 97275-0055,Lviv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,DICEUS,380 95270-2657,Kyiv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,Emorphis Technologies,408 409-7548,Irvine,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,Octobot,598 2406-8077,Montevideo,,,UY,598,IT Services & Solutions,IT Services
+Company,,,,Opinov8 Technology Services,447 55710-9860,London,,,UK,44,IT Services & Solutions,IT Services
+Company,,,,Dinarys GmbH,493 05201-5157,Berlin,,,DE,49,IT Services & Solutions,IT Services
+Company,,,,Teravision Technologies,570 31756-9959,Bogotá,,,CO,57,IT Services & Solutions,IT Services
+Company,,,,Inflection Point,443 255-8527,,,MD,CO,57,IT Services & Solutions,IT Services
+Company,,,,Instil Software,028 9027-8498,Belfast,,,UK,44,IT Services & Solutions,IT Services
+Company,,,,Netsells Group,019 0456-3232,York,,,UK,44,IT Services & Solutions,IT Services
+Company,,,,AllianceTek,484 892-5713,Malvern,,PA,US,1,IT Services & Solutions,IT Services
+Company,,,,Queryon,907 519-0034,Anchorage,,AK,US,1,IT Services & Solutions,IT Services
+Company,,,,ContinuumInnovations Inc,540 999-8758,Princeton,,NJ,US,1,IT Services & Solutions,IT Services
+Company,,,,Generation Technology Solutions,780 413-9908,Edmonton,,,CA,1,IT Services & Solutions,IT Services
+Company,,,,Vertical Computers,800 820-0201,Chino,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,Kanda Software,617 340-3850,Newton,,MA,US,1,IT Services & Solutions,IT Services
+Company,,,,Simform,321 237-2727,Orlando,,FL,US,1,IT Services & Solutions,IT Services
+Company,,,,VentureDive Pvt. Ltd.,650 200-3869,Mountain View,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,Code Runners,359 88957-4409,Sofia,,,BG,359,IT Services & Solutions,IT Services
+Company,,,,IT GuidePoint Corporation,800 518-3760,Chicago,,IL,US,1,IT Services & Solutions,IT Services
+Company,,,,Traction Consulting Group,248 679-9454,Wixom,,MI,US,1,IT Services & Solutions,IT Services
+Company,,,,JetRuby Agency,628 251-1067,L'viv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,Quantum,380 50400-5772,Kharkiv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,Exoft,380 95004-0110,L'viv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,Apadmi,016 1850-1300,Salford,,,UK,44,IT Services & Solutions,IT Services
+Company,,,,Devetry,720 580-1192,Denver,,CO,US,1,IT Services & Solutions,IT Services
+Company,,,,Brocoders,380 50768-7691,Sumy,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,Tkxel,571 554-8110,Reston,,VA,US,1,IT Services & Solutions,IT Services
+Company,,,,W3care Technologies Pvt. Ltd.,408 757-0455,Seattle,,WA,US,1,IT Services & Solutions,IT Services
+Company,,,,Tudip Technologies Pvt. Ltd.,408 216-8162,Campbell,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,Coherent Solutions,612 279-6262,St. Louis Park,,MN,US,1,IT Services & Solutions,IT Services
+Company,,,,TECHBLEED,844 777-8558,Glendale,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,CVisionLab,786 3432-7269,Taganrog,,,RU,7,IT Services & Solutions,IT Services
+Company,,,,ROKi Digital,0203 811-0447,London,,,UK,44,IT Services & Solutions,IT Services
+Company,,,,Rubyroid Labs,375 44485-9738,Minsk,,,BY,375,IT Services & Solutions,IT Services
+Company,,,,Berezha Security Group,380 44364-7336,Kyiv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,Sciant,359 89942-0440,Sofia,,,BG,359,IT Services & Solutions,IT Services
+Company,,,,Brimit,203 966 8090,Minsk,,,BY,375,IT Services & Solutions,IT Services
+Company,,,,Emergent Software,612 217-0747,Minneapolis,,MN,US,1,IT Services & Solutions,IT Services
+Company,,,,BlueSteel Cybersecurity,301 531-4254,,,,CO,57,IT Services & Solutions,IT Services
+Company,,,,UnderDefense,929 999-5101,Northbrook,,NY,US,1,IT Services & Solutions,IT Services
+Company,,,,Computan,905 984-8388,Thorold,,,CA,1,IT Services & Solutions,IT Services
+Company,,,,Cyberlands.io,313 0890-3433,Rotterdam,,,NL,31,IT Services & Solutions,IT Services
+Company,,,,Impiger Technologies,972 346-8186,Richardson,,TX,US,1,IT Services & Solutions,IT Services
+Company,,,,Ballard Chalmers Ltd,441 34241-0223,East Grinstead,,,US,1,IT Services & Solutions,IT Services
+Company,,,,MEC IT Services,210 549-8777,San Antonio,,TX,US,1,IT Services & Solutions,IT Services
+Company,,,,Folio3,408 512-1812,Belmont,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,Altar.io,351 91935-9369,Lisboa,,,PT,351,IT Services & Solutions,IT Services
+Company,,,,Belitsoft,917 410-5757,Minsk,,,BY,375,IT Services & Solutions,IT Services
+Company,,,,eLuminous Technologies Pvt Ltd,918 20822-2939,Nashik,,,IN,91,IT Services & Solutions,IT Services
+Company,,,,Sekurno,380 63722-2816,Kyiv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,CHI Software,380 5077-6853,Kharkiv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,CINQ Technologies,855 800-2467,Miami,,FL,US,1,IT Services & Solutions,IT Services
+Company,,,,HashCash Consultants,888 893-0588,Palo Alto,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,InData Labs,375 29199-1644,Nicosia,,,CY,357,IT Services & Solutions,IT Services
+Company,,,,Framework Security,310 906-0124,Marina del Rey,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,Solwit SA,485 8770-3492,Gda?sk,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,Compoze Labs,952 232-5103,Minneapolis,,MN,US,1,IT Services & Solutions,IT Services
+Company,,,,Iflexion,720 207-0369,Denver,,CO,US,1,IT Services & Solutions,IT Services
+Company,,,,Codetribe,381 62851-5917,Novi Sad,,,RS,381,IT Services & Solutions,IT Services
+Company,,,,Scalo,486 6559-4665,Wroc?aw,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,NCoreSoft,919 90999-4628,Ahmedabad,,,IN,91,IT Services & Solutions,IT Services
+Company,,,,Metal Toad,310 507-0606,Beverly Hills,,,CA,1,IT Services & Solutions,IT Services
+Company,,,,ONE12th,877 663-1284,Aventura,,FL,US,1,IT Services & Solutions,IT Services
+Company,,,,Miracle Mill AG,347 464-2210,Baar,,,CH,41,IT Services & Solutions,IT Services
+Company,,,,Stepwise,488 8863-4442,Warszawa,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,Ziffity Solutions LLC,415 692-5513,Texas,,TX,US,1,IT Services & Solutions,IT Services
+Company,,,,Euristiq,380 63840-3560,L'viv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,Deligence Technologies Pvt. Ltd.,991 013-0340,New Delhi,,,IN,91,IT Services & Solutions,IT Services
+Company,,,,Pattern Match,486 1641-0721,Gliwice,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,Roycon,512 318-2488,Austin,,TX,US,1,IT Services & Solutions,IT Services
+Company,,,,Lateral Inc.,650 380-8261,Cluj-Napoca,,,RO,40,IT Services & Solutions,IT Services
+Company,,,,WillDom,415 692-5508,Fort Lauderdale,,FL,US,1,IT Services & Solutions,IT Services
+Company,,,,Apriorit,202 780-9339,Wilmington,,DE,US,1,IT Services & Solutions,IT Services
+Company,,,,Armada Labs,914 510-6776,Estero,,FL,US,1,IT Services & Solutions,IT Services
+Company,,,,Ragnarson,491 517262-2746,?ód?,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,Twistellar,452 325-2197,København,,,DK,45,IT Services & Solutions,IT Services
+Company,,,,Software Mind,481 2252-3400,Kraków,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,Nybble Group,786 796-7820,Miami,,FL,US,1,IT Services & Solutions,IT Services
+Company,,,,SoftKraft,486 0199-2307,Bielsko-Bia?a,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,Inventive Works,866 500-2706,Manor,,TX,US,1,IT Services & Solutions,IT Services
+Company,,,,Evojam,487 2836-8296,Warszawa,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,CloudNesil,,Denizli,,,TR,90,IT Services & Solutions,IT Services
+Company,,,,Startup Development House,486 6191-0176,Warszawa,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,Deeper Insights,442 07129-7497,London,,,UK,44,IT Services & Solutions,IT Services
+Company,,,,Synergo Group,647 560-4412,Toronto,,,CA,1,IT Services & Solutions,IT Services
+Company,,,,Neurony,407 3069-4193,Bucure?ti,,,RO,40,IT Services & Solutions,IT Services
+Company,,,,NeenOpal Inc.,646 793-0813,New York,,NY,US,1,IT Services & Solutions,IT Services
+Company,,,,CloudMasonry,888 668-2525,Chicago,,IL,US,1,IT Services & Solutions,IT Services
+Company,,,,Packetlabs Ltd.,647 797-9320,Mississauga,,,CA,1,IT Services & Solutions,IT Services
+Company,,,,ReputationDefender,888 720-3332,Redwood City,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,Noltic,380 98677-5419,L'viv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,UAITLAB,380 93170-5713,Kyiv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,DataRoot Labs,380 63885-5724,Kyiv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,Trive,385 98197-9889,Osijek,,,HR,385,IT Services & Solutions,IT Services
+Company,,,,GTM Plus,132 3870-7813,Praha,,,CZ,420,IT Services & Solutions,IT Services
+Company,,,,Skylines One,302 747-1888,Lewes,,DE,US,1,IT Services & Solutions,IT Services
+Company,,,,SoftwareHut,486 9342-0078,Bia?ystok,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,moblers,972 54948-9805,HaOgen,,,IL,972,IT Services & Solutions,IT Services
+Company,,,,"Principle Co, Ltd.",813 6206-9003,Chiyoda City,,,JP,81,IT Services & Solutions,IT Services
+Company,,,,Simplex Software,549 113893-2590,CMK,,,AR,54,IT Services & Solutions,IT Services
+Company,,,,Unique Software Development,214 636-7723,Dallas,,TX,US,1,IT Services & Solutions,IT Services
+Company,,,,BIX Technology,554 899659-5490,Florianópolis,,BR,US,55,IT Services & Solutions,IT Services
+Company,,,,Neologic Software,773 59-23430,Northbrook,,IL,US,1,IT Services & Solutions,IT Services
+Company,,,,MassMedia Group,380 98095-2264,Khmel'nyts'kyi,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,Pentest7,877 464-9777,Sheridan,,WY,US,1,IT Services & Solutions,IT Services
+Company,,,,Flobotics,910 518-0124,Munster,,IN,US,1,IT Services & Solutions,IT Services
+Company,,,,Clarika,646 443-6740,New York,,NY,US,1,IT Services & Solutions,IT Services
+Company,,,,obo. Agency,443 266 3217,Columbia,,MD,US,1,IT Services & Solutions,IT Services
+Company,,,,Cedarcode,415 914-9204,Montevideo,,,UY,598,IT Services & Solutions,IT Services
+Company,,,,Appsilon,485 1528-4693,Warszawa,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,a COUPLE of GURUS,612 454-4878,Minneapolis,,MN,US,1,IT Services & Solutions,IT Services
+Company,,,,Slingshot,502 272-1123,Louisville,,KY,US,1,IT Services & Solutions,IT Services
+Company,,,,Parthenon Software Group,503 247-2447,Portland,,OR,US,1,IT Services & Solutions,IT Services
+Company,,,,BusyMachines,312 0308-5107,Amsterdam,,,NL,31,IT Services & Solutions,IT Services
+Company,,,,CodiLime,482 2389-5100,Warszawa,,PL,US,1,IT Services & Solutions,IT Services
+Company,,,,IntegraMSP,214 705-2008,Dallas,,TX,US,1,IT Services & Solutions,IT Services
+Company,,,,Equinox IS,442 03807-0810,London,,,UK,44,IT Services & Solutions,IT Services
+Company,,,,Kurve Limited,442 07097-5139,London,,,UK,44,IT Services & Solutions,IT Services
+Company,,,,Zegami,073 9953-6389,Oxford,,,UK,44,IT Services & Solutions,IT Services
+Company,,,,Newxel,380 68340-0233,Kyiv,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,Arcade Dev House,130 019-7382,Alexandria,,,AU,61,IT Services & Solutions,IT Services
+Company,,,,ConsultingWhiz LLC,949 656-9676,Aliso Viejo,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,Ergonized,833 210-7333,New York,,NY,US,1,IT Services & Solutions,IT Services
+Company,,,,GetOnCRM Solutions,074 0504-2484,Ahmedabad,,,IN,91,IT Services & Solutions,IT Services
+Company,,,,Upside,491 70950-2716,Kraków,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,PROBEGIN,318 5401-6527,Lelystad,,,NL,31,IT Services & Solutions,IT Services
+Company,,,,Antedote,855 503-0723,San Francisco,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,HUNTER Digital,212 202-1431,New York,,NY,US,1,IT Services & Solutions,IT Services
+Company,,,,Adoriasoft,650 885-9777,Las Vegas,,NV,US,1,IT Services & Solutions,IT Services
+Company,,,,Core Blue,017 5287-5666,London,,,UK,44,IT Services & Solutions,IT Services
+Company,,,,TowerHouse Studio,917 231-2775,Montevideo,,,UY,598,IT Services & Solutions,IT Services
+Company,,,,OSSystem,380 50219-7909,Illichivs'k,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,The Thoughtful Company,929 376-9933,Denver,,CO,US,1,IT Services & Solutions,IT Services
+Company,,,,sceel.io GmbH,497 119688-2990,Stuttgart,,,DE,49,IT Services & Solutions,IT Services
+Company,,,,New Peak Solutions,312 487-1210,Chicago,,IL,US,1,IT Services & Solutions,IT Services
+Company,,,,DOIT Software,9299 99-1825,Boston,,MA,US,1,IT Services & Solutions,IT Services
+Company,,,,MH Digital,407 925-7949,Denver,,CO,US,1,IT Services & Solutions,IT Services
+Company,,,,DeepInspire,380 32243-1043,L'viv,,UK,US,1,IT Services & Solutions,IT Services
+Company,,,,Xminds Infotech,914 7124-77556,Thiruvananthapuram,,,IN,91,IT Services & Solutions,IT Services
+Company,,,,Intcore,201 00001-8081,Cairo,,,EG,20,IT Services & Solutions,IT Services
+Company,,,,"Peeklogic, LLC",440 990-5855,Austin,,TX,US,1,IT Services & Solutions,IT Services
+Company,,,,Streaver,351 200-3747,Montevideo,,,UY,598,IT Services & Solutions,IT Services
+Company,,,,Elasticiti,347 276-3107,New York,,NY,US,1,IT Services & Solutions,IT Services
+Company,,,,Advertas,713 401-3180,Houston,,TX,US,1,IT Services & Solutions,IT Services
+Company,,,,ARCH,019 1432-8092,Gateshead,,,UK,44,IT Services & Solutions,IT Services
+Company,,,,Broscorp,380 98264-8263,Dnipropetrovs'k,,,UA,380,IT Services & Solutions,IT Services
+Company,,,,IronGlove Studio,503 501-4645,Oregon City,,OR,US,1,IT Services & Solutions,IT Services
+Company,,,,Sowen,646 713-4373,New York,,NY,US,1,IT Services & Solutions,IT Services
+Company,,,,Cloudsquare,833 344-8850,Los Angeles,,CA,US,1,IT Services & Solutions,IT Services
+Company,,,,Mobile Reality,486 0712-6160,Warsaw,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,Neginet,718 355-9390,Addison,,TX,US,1,IT Services & Solutions,IT Services
+Company,,,,OnPath Testing,303 479-4994,Boulder,,CO,US,1,IT Services & Solutions,IT Services
+Company,,,,Appstronauts,485 7070-7700,Warszawa,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,Custom D,039 28-2567,Christchurch,,,NZ,64,IT Services & Solutions,IT Services
+Company,,,,Eximia,598 2401-3576,Montevideo,,,UY,598,IT Services & Solutions,IT Services
+Company,,,,Incepteo,442 03807-4086,London,,,UK,44,IT Services & Solutions,IT Services
+Company,,,,Standard Office Systems,770 449-9100,Duluth,,GA,US,1,IT Services & Solutions,IT Services
+Company,,,,6Minded,485 0158-5141,Kraków,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,Devopsbay,486 0311-2681,Sopot,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,SPEC INDIA,079 2640-4031,Ahmedabad,,,IN,91,IT Services & Solutions,IT Services
+Company,,,,Anderson Collaborative,305 777-0471,Miami,,FL,US,1,IT Services & Solutions,IT Services
+Company,,,,Exometrics,441 89231-3254,London,,,UK,44,IT Services & Solutions,IT Services
+Company,,,,Ehecatl,552 29935-3278,Boca del Río,,,MX,52,IT Services & Solutions,IT Services
+Company,,,,WizzDev,485 1576-6049,Pozna?,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,WeGotCode.com,470 228-0675,Canton,,GA,US,1,IT Services & Solutions,IT Services
+Company,,,,REWSOFT,486 9559-2547,Tychy,,,PL,48,IT Services & Solutions,IT Services
+Company,,,,Truu Digital,425 224-3108,Bellevue,,WA,US,1,IT Services & Solutions,IT Services
+Company,,,,MoldoWEB,075 976-2371,Cluj-Napoca,,,RO,40,IT Services & Solutions,IT Services
+Company,,,,RIA Solutions Group,188 8803-8164,Winston-Salem,,NC,US,1,IT Services & Solutions,IT Services
+Company,,,,Evolut,614 0285-3722,Upper Kedron,,,AU,61,IT Services & Solutions,IT Services
+Company,,,,Singapore Ecommerce App Pte. Ltd,903 0-5959,,,,SG,65,IT Services & Solutions,IT Services
+Company,,,,Steadfast Media,901 878-2135,Nashville,,TN,US,1,IT Services & Solutions,IT Services
+Company,,,,JANETO,842 86683-3575,Ho Chi Minh,,,VT,84,IT Services & Solutions,IT Services
+Company,,,,Recro,918 04718-7171,Bengaluru,,,IN,91,IT Services & Solutions,IT Services
+Company,,,,Antma IT,485 0986-7940,Kraków,,,PL,48,IT Services & Solutions,IT Services
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
